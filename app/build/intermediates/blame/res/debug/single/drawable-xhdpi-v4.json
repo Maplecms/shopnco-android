@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_bar_button_background_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\search_bar_button_background_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_bar_button_background_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\search_bar_button_background_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_minus_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_time_big.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\ic_time_big.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_phone_big.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone_big.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_profile_msg_bg_press.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\my_profile_msg_bg_press.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_plus_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_addphoto.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\image_addphoto.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_address_big.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\ic_address_big.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_download_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\img_download_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_btn_checkin_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\ic_btn_checkin_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_minus_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\btn_minus_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_addphoto_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\image_addphoto_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_download_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\img_download_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_plus_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\btn_plus_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_action_btn_white_rest.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\common_action_btn_white_rest.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_btn_checkin_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-xhdpi\\ic_btn_checkin_d.png"
+    }
+]

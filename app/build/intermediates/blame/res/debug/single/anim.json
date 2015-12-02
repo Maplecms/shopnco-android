@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\my_alpha_action.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\my_alpha_action.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]

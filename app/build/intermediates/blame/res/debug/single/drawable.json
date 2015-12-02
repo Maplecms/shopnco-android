@@ -1,0 +1,758 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myadd_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\myadd_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choosebar_press_down.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choosebar_press_down.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_skip.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_skip.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center_button_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\center_button_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_tuan_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_tuan_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\food_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_button_bg.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\bottom_button_bg.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\food_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_draft_icon_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_draft_icon_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_image_mode_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_action_image_mode_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_btn_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tab_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_last.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\list_item_last.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_topic_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_topic_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snack_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\snack_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop_photo_frame.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\shop_photo_frame.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_up_black.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_arrow_up_black.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_skip_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_skip_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_bg_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_tab_bg_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_button_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\right_button_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_search_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_search_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_lay_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_lay_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_card_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_card_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edit_unselected.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\bg_edit_unselected.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ioc_my_youhuiquan_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ioc_my_youhuiquan_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_send_to_friend_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\toolbar_send_to_friend_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choosebar_down.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choosebar_down.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_plain.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\list_item_plain.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mc_icon_joined.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\mc_icon_joined.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tip_tuan_support_on.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tip_tuan_support_on.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myadd_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\myadd_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test5_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test5_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\booking_list_btn_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\booking_list_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address_btn_unselected.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\address_btn_unselected.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_new1.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_new1.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_first.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\list_item_first.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_favorite_icon_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_favorite_icon_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_topic_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_topic_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order_tab_item_btn_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\order_tab_item_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_tickets_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_tickets_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addhoney_btn_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\addhoney_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\film_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\film_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_search_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_search_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ktv_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitem_divide.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\listitem_divide.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout_account_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\logout_account_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\booking_list_btn_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\booking_list_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ioc_my_card_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ioc_my_card_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_my_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_my_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_myorder_selected.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_tab_myorder_selected.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\booking_list_btn_p.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\booking_list_btn_p.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choosebar_press_up.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choosebar_press_up.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_comments_icon_x.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_comments_icon_x.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test1_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test1_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_back_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_city_btn_u.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\change_city_btn_u.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_line.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\card_line.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_r.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_r.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_item_right.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choose_item_right.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tab_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_btn_checkin_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_btn_checkin_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_tuan_fav_icon_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_tuan_fav_icon_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_back_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\booking_main_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\booking_main_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sub_seperate_line_v_dropdown.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\sub_seperate_line_v_dropdown.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_new3.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_new3.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_download.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tuan_my_coupon_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_tuan_my_coupon_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\booking_list_top_bg_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\booking_list_top_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_tuan_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_tuan_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coffee_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\coffee_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intropanel_bg2.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\intropanel_bg2.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_detail_list_bottom.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\common_detail_list_bottom.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_card_icon_normal_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_card_icon_normal_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chain_seperate_shadow.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\chain_seperate_shadow.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_checkin_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_checkin_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repeat_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\repeat_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_btn_add_shop.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_btn_add_shop.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hello.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\hello.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_my_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_my_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test6_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test6_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\more_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_card_iocn_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_card_iocn_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_tuan_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_tuan_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_yellow.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\label_yellow.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addhoney_btn_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\addhoney_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_more_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_more_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_96.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\avatar_96.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout_account_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\logout_account_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\more_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upload_photo_normal_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\upload_photo_normal_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\progress_bg.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_disabled.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_gray_disabled.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_more_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_more_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_top_icon.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\home_top_icon.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\arrow_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_checkin_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_checkin_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nono.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\nono.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v5_0_1_friend_overlay_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\v5_0_1_friend_overlay_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_btn_filter_selected.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_btn_filter_selected.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\show_tu.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\show_tu.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coffee_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\coffee_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_order_iocn.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_order_iocn.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ktv_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test4_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test4_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_l.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_l.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tuan_my_coupon_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_tuan_my_coupon_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_first_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_first_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snack_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\snack_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expand_tab_selector.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\expand_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_single_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_single_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_settings_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\more_settings_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hongkong.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\hongkong.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kehu_list_item_bg.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\kehu_list_item_bg.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\film_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\film_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuan_vertical_dot_line.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tuan_vertical_dot_line.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_more_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_more_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_checkin_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_checkin_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_favorite_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_favorite_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_coupon_icon_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_coupon_icon_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_toggle_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_selltop_g_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\home_selltop_g_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_image_mode_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_action_image_mode_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_background.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\title_background.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_last_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_last_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mc_addvip.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\mc_addvip.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mid_filter_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\mid_filter_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_tuan_fav_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_tuan_fav_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout_account_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\logout_account_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_item_selected.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choose_item_selected.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter_fragment_bottom_divider.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\filter_fragment_bottom_divider.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choosebar_line.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choosebar_line.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_my_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_my_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearest_tip_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\nearest_tip_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuan_horizontal_dot_line.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tuan_horizontal_dot_line.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_first_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_first_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wall.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\wall.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_city_btn_d.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\change_city_btn_d.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\promo_container_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\promo_container_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_d.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_back_d.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edit_selected.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\bg_edit_selected.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_female.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\icon_female.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_search_edit_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\home_search_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address_btn_selected.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\address_btn_selected.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_down_black.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_arrow_down_black.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myadd_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\myadd_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_male.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\icon_male.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_download_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\img_download_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_single.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\list_item_single.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star40.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\star40.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_skip_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_skip_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_coupon_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_coupon_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_progressbar.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_shape_file.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_shape_file.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ioc_my_order_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ioc_my_order_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_loading_white.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_loading_white.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_plate_item_selector.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choose_plate_item_selector.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_profile_book_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_profile_book_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_topic_pressed.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_topic_pressed.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_button_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\left_button_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tuan_phone_big.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_tuan_phone_big.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mc_card_bg_1.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\mc_card_bg_1.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_item_selected2.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choose_item_selected2.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test3_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test3_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\intropanel_bg.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\intropanel_bg.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_search_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\main_index_search_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\promo_logo.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\promo_logo.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\qrcode_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_tickets_icon_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_tickets_icon_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guidance_new2.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\guidance_new2.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_draft_icon_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_draft_icon_normal.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_gray_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_last_pressed.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_last_pressed.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_test2_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_test2_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_profile_book_normal_u.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\my_profile_book_normal_u.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_eara_item_selector.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\choose_eara_item_selector.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_filter_divider.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_filter_divider.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_more_lay_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\btn_more_lay_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_listitem_bg_single_normal.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\ic_listitem_bg_single_normal.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_bg2.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\photo_bg2.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_bg.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\city_bg.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bar_bg.9.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\tab_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_point_checked.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable\\checkbox_point_checked.png"
+    }
+]

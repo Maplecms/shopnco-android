@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ad2.jpg",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\ad2.jpg"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\price_filter_node_selected.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\price_filter_node_selected.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ad1.jpg",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\ad1.jpg"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ad3.jpg",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\ad3.jpg"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ad4.jpg",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\ad4.jpg"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\price_filter_node_normal.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\drawable-ldpi\\price_filter_node_normal.png"
+    }
+]

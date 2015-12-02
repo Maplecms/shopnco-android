@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_category_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\more_category_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_main.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\choose_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youhuiquan_phone_dialog.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\youhuiquan_phone_dialog.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_comment.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\add_comment.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_youhuiquan_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_youhuiquan_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_card_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\my_card_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_about_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\more_about_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_store_list_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_store_list_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toggle_button.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\toggle_button.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_topic.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_topic.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\store_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_my_coupon_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_my_coupon_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store_details.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\store_details.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_eara_item_selector.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\choose_eara_item_selector.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_my.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_my.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_html_login.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\my_html_login.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_city_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_city_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_check.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_check.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_help_web_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\more_help_web_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_choose_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\more_choose_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_city_hend.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_city_hend.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_check_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_check_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mian_out_dialog.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\mian_out_dialog.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_all_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\comment_all_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_more_load.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\list_more_load.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_region.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\view_region.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_weishiyong_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\order_weishiyong_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_start.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_start.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pullview.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\pullview.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_topic_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_topic_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuan_details.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tuan_details.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_store_comment_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_store_comment_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topic_list_head.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\topic_list_head.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store_comment_list_grid_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\store_comment_list_grid_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_icon_text_icon02.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_item_icon_text_icon02.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_coupon_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\my_coupon_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fukuan_web.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\fukuan_web.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_tuan_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_tuan_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youhuiquan_show_photo_down.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\youhuiquan_show_photo_down.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_more.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\view_more.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_icon_text_icon.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_item_icon_text_icon.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_list_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\city_list_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_tuan.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_tuan.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store_comment_show_photo_down.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\store_comment_show_photo_down.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_mydetails.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\edit_mydetails.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_mycard_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_mycard_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_gallery_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\start_gallery_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_tab_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\order_tab_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_login.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\my_login.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_tab_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\order_tab_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_card_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_card_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_detalis.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\card_detalis.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_home.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_home.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\submit_order_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\submit_order_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order_view.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\confirm_order_view.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends_overlay.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\friends_overlay.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store_comment_list_grid_item2.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\store_comment_list_grid_item2.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coupon_detalis.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\coupon_detalis.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_my_order_item.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\listview_my_order_item.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_youhuiquan.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_youhuiquan.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\card_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_open.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\start_open.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_more.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\layout\\tab_more.xml"
+    }
+]

@@ -1,0 +1,958 @@
+[
+    {
+        "outputFile": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 40,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 40,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 39,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 39,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 62,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 62,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 40,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 40,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 38,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 38,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 57,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 57,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 47,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 47,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 41,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 57,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 55,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endColumn": 54,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 54,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 53,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 53,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 52,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 52,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 41,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 43,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 52,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 52,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 54,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 54,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 50,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 50,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 48,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 48,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 52,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 52,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 51,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 51,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 50,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 50,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 40,
+                    "endOffset": 1414
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 40,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1419,
+                    "endColumn": 40,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 40,
+                        "endOffset": 1753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endColumn": 64,
+                    "endOffset": 1520
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1758,
+                        "endColumn": 64,
+                        "endOffset": 1818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1525,
+                    "endColumn": 48,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endColumn": 48,
+                        "endOffset": 1867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 333,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 333,
+                        "endOffset": 1316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 70,
+                    "endOffset": 1974
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1321,
+                        "endColumn": 70,
+                        "endOffset": 1387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1979,
+                    "endColumn": 36,
+                    "endOffset": 2011
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1397,
+                        "endColumn": 36,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2016,
+                    "endColumn": 37,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1434,
+                        "endColumn": 37,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2054,
+                    "endColumn": 37,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 5,
+                        "startOffset": 1473,
+                        "endColumn": 38,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 47,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 47,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endColumn": 62,
+                    "endOffset": 2198
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 62,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2203,
+                    "endColumn": 53,
+                    "endOffset": 2252
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 53,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2257,
+                    "endColumn": 65,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 65,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endColumn": 62,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 62,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 56,
+                    "endOffset": 2438
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 56,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2443,
+                    "endColumn": 57,
+                    "endOffset": 2496
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 57,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2501,
+                    "endLine": 53,
+                    "endColumn": 9,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 5,
+                        "startOffset": 3758,
+                        "endLine": 75,
+                        "endColumn": 9,
+                        "endOffset": 4144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 57,
+                    "endOffset": 2940
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 58,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2945,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 4412
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 3033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4417,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4873
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3072,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 3535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4878,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 5799
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5804,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 6138
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6143,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 6350
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3541,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 3751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6355,
+                    "endLine": 122,
+                    "endColumn": 9,
+                    "endOffset": 6768
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\shopnco\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 4147,
+                        "endLine": 81,
+                        "endColumn": 9,
+                        "endOffset": 4565
+                    }
+                }
+            }
+        ]
+    }
+]
